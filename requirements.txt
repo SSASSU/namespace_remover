@@ -1,0 +1,2 @@
+kubernetes==26.1.0
+pick==2.2.0
